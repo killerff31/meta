@@ -7,7 +7,7 @@
     "build": "npm install && npm run start"
   },
   "dependencies": {
-    "node-telegram-bot-api": "^1.34.1"
+    "node-telegram-bot-api": "latest"
   }
 }
 
